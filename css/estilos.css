@@ -1,7 +1,16 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: blueviolet;
-    
-    
+    color: brown;    
+}
+#conteiner{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid deeppink;
+    margin: 0 auto;
+}
+.conteiner h1{
+    font-size: 20px;
+
 }
