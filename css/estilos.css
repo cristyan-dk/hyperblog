@@ -1,16 +1,31 @@
 body {
     text-align: center;
-    font-family: "curier";
-    color: brown;    
+    font-family: "Arial";
+    color: blue;    
 }
 #conteiner{
+    text-align: center;
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid deeppink;
+    border: 1px solid darkolivegreen;
     margin: 0 auto;
 }
-.conteiner h1{
-    font-size: 20px;
+#cabecera{
+    font-family: 'Courier New', Courier, monospace;
+    font: bold;
+    text-align: center;
+    background: blue;
+    color: white;
+    font-size: 25px;
+
+
+}
+#conteiner h1{
+    font-size: 35px;
+
+}
+#post {
+    text-align: center;
 
 }
